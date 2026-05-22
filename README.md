@@ -4,6 +4,24 @@
 
 This repository archives PDF issues of **Eco Research Digest**, a periodic digest of recent ecology-related research papers. It collects and organizes new papers from relevant academic journals and leading journals across ecology, environmental change, biodiversity, conservation biology, and global change ecology, with paper metadata, abstract translation, Chinese interpretation, topic classification, and source links.
 
+## 报告索引 | Report Index
+
+| 报告日期 | Report Date | PDF |
+| --- | --- | --- |
+| 2026-03-11 | 2026-03-11 | [生态研究前沿速览_2026-03-11.pdf](./生态研究前沿速览_2026-03-11.pdf) |
+| 2026-03-12 | 2026-03-12 | [生态研究前沿速览_2026-03-12.pdf](./生态研究前沿速览_2026-03-12.pdf) |
+| 2026-03-14 | 2026-03-14 | [生态研究前沿速览_2026-03-14.pdf](./生态研究前沿速览_2026-03-14.pdf) |
+| 2026-03-18 | 2026-03-18 | [生态研究前沿速览_2026-03-18.pdf](./生态研究前沿速览_2026-03-18.pdf) |
+| 2026-03-21 | 2026-03-21 | [生态研究前沿速览_2026-03-21.pdf](./生态研究前沿速览_2026-03-21.pdf) |
+| 2026-03-25 | 2026-03-25 | [生态研究前沿速览_2026-03-25.pdf](./生态研究前沿速览_2026-03-25.pdf) |
+| 2026-03-28 | 2026-03-28 | [生态研究前沿速览_2026-03-28.pdf](./生态研究前沿速览_2026-03-28.pdf) |
+| 2026-04-01 | 2026-04-01 | [生态研究前沿速览_2026-04-01.pdf](./生态研究前沿速览_2026-04-01.pdf) |
+| 2026-04-04 | 2026-04-04 | [生态研究前沿速览_2026-04-04.pdf](./生态研究前沿速览_2026-04-04.pdf) |
+| 2026-04-08 | 2026-04-08 | [生态研究前沿速览_2026-04-08.pdf](./生态研究前沿速览_2026-04-08.pdf) |
+| 2026-04-11 | 2026-04-11 | [生态研究前沿速览_2026-04-11.pdf](./生态研究前沿速览_2026-04-11.pdf) |
+| 2026-04-22 | 2026-04-22 | [生态研究前沿速览_2026-04-22.pdf](./生态研究前沿速览_2026-04-22.pdf) |
+| 2026-05-20 | 2026-05-20 | [生态研究前沿速览_2026-05-20.pdf](./生态研究前沿速览_2026-05-20.pdf) |
+
 ## 文件命名 | File Naming
 
 报告采用日期命名：
